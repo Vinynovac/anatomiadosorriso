@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+:root {
+  --blue-primary: #0B2A4A;
+  --blue-secondary: #164A73;
+  --blue-light: #EEF5FA;
+  --white: #FFFFFF;
+  --text: #243447;
+}
+
+/* Rolagem suave na página */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Compensação para o Header Fixo */
+/* Impede que o topo das seções fique escondido atrás da navbar */
+section {
+  scroll-margin-top: 100px;
+}
+
+body {
+  margin: 0;
+  font-family: "Inter", sans-serif;
+  background: var(--white);
+  color: var(--text);
+}
+
+* {
+  box-sizing: border-box;
+}
