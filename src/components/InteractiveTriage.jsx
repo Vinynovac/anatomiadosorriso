@@ -38,7 +38,7 @@ export default function InteractiveTriage() {
   };
 
   const abrirWhatsapp = () => {
-    const telefoneClinica = '553832210122';
+    const telefoneClinica = '5538988456205';
     const texto = encodeURIComponent(
       `Olá! Realizei a triagem inteligente pelo site da Anatomia do Sorriso.\n\n` +
       `*Paciente:* ${formData.nome}\n` +
