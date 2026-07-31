@@ -71,7 +71,7 @@ export default function Hero() {
             <div className="hero-badge inline-flex items-center gap-3 bg-[#0B2A4A]/5 border border-[#0B2A4A]/10 px-4 py-2 rounded-full mb-8">
               <span className="w-2 h-2 rounded-full bg-[#164A73]"></span>
               <span className="text-xs font-semibold tracking-[0.25em] text-[#0B2A4A] uppercase">
-                Tradicação desde 1984
+                Tradição
               </span>
             </div>
 

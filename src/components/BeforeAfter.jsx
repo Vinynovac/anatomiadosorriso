@@ -60,12 +60,10 @@ export default function BeforeAfter() {
 
           {/* BADGES */}
           <div className="absolute left-5 top-5 bg-black/50 backdrop-blur-sm text-white px-4 py-2 rounded-full text-xs uppercase tracking-wider pointer-events-none z-0">
-            Depois
+            Arraste para ver o resultado
           </div>
 
-          <div className="absolute right-5 top-5 bg-[#0B2A4A]/80 backdrop-blur-sm text-white px-4 py-2 rounded-full text-xs uppercase tracking-wider pointer-events-none z-0">
-            Antes
-          </div>
+          
 
         </div>
       </div>

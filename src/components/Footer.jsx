@@ -21,7 +21,7 @@ export default function Footer() {
           <div className="flex flex-col sm:flex-row gap-5 text-sm text-blue-100">
             <div className="flex items-center gap-2">
               <MapPin size={16} />
-              <span>R. Belo Horizonte, 295, Centro</span>
+              <span>R. Belo Horizonte, 295, Centro, Montes Claros, MG.</span>
             </div>
 
             <div className="flex items-center gap-2">

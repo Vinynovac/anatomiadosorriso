@@ -18,25 +18,25 @@ const specialties = [
   {
     icon: Sparkles,
     title: "Estética & Lentes",
-    description: "Lâminas ultrafinas em porcelana planejadas digitalmente para transformar a harmonia do seu sorriso.",
+    description: "Facetas em porcelana e resina, planejadas e esculpidas para transformar a harmonia do seu sorriso.",
     serviceQuery: "Lentes de Contato e Facetas",
   },
   {
     icon: ShieldCheck,
     title: "Implantes & Próteses",
-    description: "Reabilitação oral de alta precisão com implantes de titânio para devolução total de segurança e função.",
+    description: "Reabilitação oral de alta precisão com implantes modernos para devolução total de segurança e função.",
     serviceQuery: "Implantes Dentários",
   },
   {
     icon: Smile,
-    title: "Harmonização (HOF)",
+    title: "Harmonização",
     description: "Procedimentos faciais estruturais para alinhar traços do rosto com o desenho natural do sorriso.",
     serviceQuery: "Harmonização Orofacial",
   },
   {
     icon: Zap,
     title: "Tratamento de Canal",
-    description: "Endodontia automatizada com tecnologia de microscopia para procedimentos ágeis e indolores.",
+    description: "Tratamento de canal realizado com precisão e técnicas modernas para mais conforto e segurança.",
     serviceQuery: "Tratamento de Canal (Endodontia)",
   },
   {
