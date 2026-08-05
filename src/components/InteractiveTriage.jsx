@@ -56,7 +56,7 @@ export default function InteractiveTriage() {
         <span className="text-xs font-bold uppercase tracking-wider text-blue-900 bg-blue-50 px-3 py-1 rounded-full">
           Atendimento Digital
         </span>
-        <h3 className="text-2xl font-bold text-slate-800 mt-2">Acolhimento Prévia para Agendamento</h3>
+        <h3 className="text-2xl font-bold text-slate-800 mt-2">Acolhimento Prévio para Agendamento</h3>
         <p className="text-sm text-slate-500">Responda em 1 minuto para orientarmos os próximos passos da sua visita.</p>
       </div>
 
